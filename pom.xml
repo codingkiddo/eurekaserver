@@ -104,7 +104,7 @@
 					<docker>
 						<publishRegistry>
 							<username>codingkiddo</username>
-                            <token>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</token>
+                            <token>NA</token>
                             <url>https://ghcr.io</url>
 						</publishRegistry>
 					</docker>
