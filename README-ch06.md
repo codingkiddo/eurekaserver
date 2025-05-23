@@ -1,0 +1,1 @@
+java -Dspring.cloud.config.uri=http://localhost:8888 -Dspring.profiles.active=dev -jar target/eurekaserver-0.0.6-SNAPSHOT.jar
